@@ -3,28 +3,28 @@
     "id": 1,
     "title": "Corinthians bate o Flamengo no Brasileiro Feminino", 
     "description": "Com um gol no fim do jogo, o Corinthians venceu o Flamengo por 2 a 1, na tarde deste sábado, na Gávea, pela 12ª rodada do Campeonato Brasileiro Feminino.", 
-    "image": "https://github.com/83Rafa/soccer-news-api/image/1.jpg", 
+    "image": "https://83rafa.github.io/soccer-news-api/image/1.jpg", 
     "link": "https://ge.globo.com/futebol/futebol-feminino/brasileiro-feminino/noticia/2022/06/11/com-gol-nos-acrescimos-corinthians-bate-o-flamengo-no-brasileiro-feminino.ghtml" 
   },
   {
     "id": 2,
     "title": "Ferroviária quer recuperar ataque para “descansar mente” ",
     "description": "Ferroviária quer recuperar ataque para “descansar mente” durante pausa no Brasileiro feminino",
-    "image": "https://github.com/83Rafa/soccer-news-api/image/2.jpg", 
+    "image": "https://83rafa.github.io/soccer-news-api/image/2.jpg", 
     "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/times/ferroviaria/noticia/2022/06/16/ferroviaria-quer-recuperar-ataque-para-descansar-mente-durante-pausa-no-brasileiro-feminino.ghtml"
   },
   {
     "id": 3,
     "title": "Atlético-MG encaminha acerto com atacante Dandara",
     "description": "Jogadora é aguardada esta semana em BH para exames médicos; Contrato irá até o fim de 2022",
-    "image": "https://github.com/83Rafa/soccer-news-api/image/3.jpg", 
+    "image": "https://83rafa.github.io/soccer-news-api/image/3.jpg", 
     "link": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2022/04/27/atletico-mg-encaminha-acerto-com-atacante-dandara-ex-palmeiras-para-o-brasileiro-feminino.ghtml"
   },
   {
     "id": 4,
     "title": "Volante estrear como profissional no São Paulo no dia do aniversário do seu pai",
     "description": "Aos 18 anos, Joyce participou da vitória por 1 a 0 sobre o Avaí/Kindermann na noite do último domingo e dedicou o momento a Josinaldo Abelha, seu pai e principal incentivador da sua carreira",
-    "image": "https://github.com/83Rafa/soccer-news-api/image/4.jpg", 
+    "image": "https://83rafa.github.io/soccer-news-api/image/4.jpg", 
     "link": "https://ge.globo.com/pb/futebol/noticia/2022/04/19/apos-estrear-como-profissional-no-aniversario-do-seu-pai-volante-do-sao-paulo-projeta-voos-mais-altos.ghtml"
   }
 ]
